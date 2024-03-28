@@ -14,14 +14,16 @@ I am currently seeking for a data analyst role. My main objective is to contribu
 # What I have done and enjoy doing 
 - I mainly write code in Python. I also know R and SQL but occasionally use them. These are the two languages I am currently working on to improve my skills. 
 - Time series analysis and forecasting: I have experiences in doing statistical analysis and modelling for time series data and also utilizing some machine learning models for forecasting time series
-- I have some experiences with Robotic Process Automation, with tools like UiPath and Python open-source tool called Robocorp. 
+- Machine Learning: I have some experiences building models using Decision Tree, Random Forest, XGBoost, LightGBM
+- I have some experiences with Robotic Process Automation, with tools like UiPath and Python open-source tool called Robocorp.
+- I am looking into Generative AI, specifically LLMs, as I think they are a real game changers. 
 
 # Let's connect
-- Reach out to me via this email: nhutntmuel@gmail.com
-- And connect with me on [LinkedIn](https://www.linkedin.com/in/nhutnguyen-tran-minh/)
+- 📮Reach out to me via this email: nhutntmuel@gmail.com
+- 🤝And connect with me on [LinkedIn](https://www.linkedin.com/in/nhutnguyen-tran-minh/)
 It would be my pleasure to talking to you
 
 # Thank You
 Thanks for visiting my profile. I would love to bring more of me on this Github and contribute to the open-source community in the future. 
-Keep calm and coding. We're all fueled my caffein and code. 
+Keep calm and coding. We're all fueled my caffein and code!. 
 
