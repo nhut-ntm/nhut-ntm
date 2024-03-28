@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋! Welcome to my Github profile
 
-<!--
-**nhut-ntm/nhut-ntm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=tuuyen13&color=blue)
 
-Here are some ideas to get you started:
+I am Nhut Nguyen (Kenny Nguyen), an undergraduate in Ho Chi Minh City, Vietnam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+I am a senior at University of Economics and Law (UEL) based in Ho Chi Minh City, Vietnam. My major is Business Analytics and Artificial Intelligence so that I have knowledge of both worlds, business and engineering. My business knowledge ranges from Economics, Accounting to Marketing. I also have solid experiences of exploring data including data manipulating, data visualization, performing statistical analysis, and building machine learning models.
+
+I can communicate effectively in both Vietnamese (mother tongue) and English. I am also a good problem solver, and have taken leadership roles in several projects and achieved significant results.
+
+I am currently seeking for a data analyst role. My main objective is to contribute to the development of the organization I join, bring values to my teams, and develop myself to a better version of it day by day.
+
+# What I have done and enjoy doing 
+- I mainly write code in Python. I also know R and SQL but occasionally use them. These are the two languages I am currently working on to improve my skills. 
+- Time series analysis and forecasting: I have experiences in doing statistical analysis and modelling for time series data and also utilizing some machine learning models for forecasting time series
+- I have some experiences with Robotic Process Automation, with tools like UiPath and Python open-source tool called Robocorp. 
+
+# Let's connect
+- Reach out to me via this email: nhutntmuel@gmail.com
+- And connect with me on [LinkedIn](https://www.linkedin.com/in/nhutnguyen-tran-minh/)
+It would be my pleasure to talking to you
+
+# Thank You
+Thanks for visiting my profile. I would love to bring more of me on this Github and contribute to the open-source community in the future. 
+Keep calm and coding. We're all fueled my caffein and code. 
+
