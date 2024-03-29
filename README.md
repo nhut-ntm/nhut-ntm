@@ -10,7 +10,7 @@ I can communicate effectively in both Vietnamese (mother tongue) and English. I 
 I am currently seeking for a data analyst role. My main objective is to contribute to the development of the organization I join, bring values to my teams, and develop myself to a better version of it day by day.
 
 # What I have done and enjoy doing 
-- I mainly write code in Python. I also know R and SQL but occasionally use them. These are the two languages I am currently working on to improve my skills. 
+- I mainly write code in Python. I also know R and SQL. 
 - Time series analysis and forecasting: I have experiences in doing statistical analysis and modelling for time series data and also utilizing some machine learning models for forecasting time series
 - Machine Learning: I have some experiences building models using Decision Tree, Random Forest, XGBoost, LightGBM
 - I have some experiences with Robotic Process Automation, with tools like UiPath and Python open-source tool called Robocorp.
