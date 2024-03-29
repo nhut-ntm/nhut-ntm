@@ -21,7 +21,8 @@ I am currently seeking for a data analyst role. My main objective is to contribu
 # Let's connect
 - 📮Reach out to me via this email: nhutntmuel@gmail.com
 - 🤝And connect with me on [LinkedIn](https://www.linkedin.com/in/nhutnguyen-tran-minh/)
-It would be my pleasure to talking to you
+
+It would be my pleasure to connect with you
 
 # Thank You
 Thanks for visiting my profile. I would love to bring more of me on this Github and contribute to the open-source community in the future. 
