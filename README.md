@@ -14,7 +14,7 @@ I am currently seeking for a data analyst role. My main objective is to contribu
 - Time series analysis and forecasting: I have experiences in doing statistical analysis and modelling for time series data and also utilizing some machine learning models for forecasting time series
 - Machine Learning: I have some experiences building models using Decision Tree, Random Forest, XGBoost, LightGBM
 - I have some experiences with Robotic Process Automation, with tools like UiPath and Python open-source tool called Robocorp.
-- I am looking into Generative AI, specifically LLMs, as I think they are a real game changers. 
+- I am looking into Generative AI, specifically LLMs, as I think they are real game changers. 
 
 # Let's connect
 - 📮Reach out to me via this email: nhutntmuel@gmail.com
