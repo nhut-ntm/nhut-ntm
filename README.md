@@ -1,7 +1,5 @@
 # Hi there 👋! Welcome to my Github profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuuyen13&color=blue)
-
 I am Nhut Nguyen (Kenny Nguyen), an undergraduate in Ho Chi Minh City, Vietnam.
 
 # About me
