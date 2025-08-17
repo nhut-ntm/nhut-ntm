@@ -1,6 +1,6 @@
 # Hi there 👋! Welcome to my Github profile
 
-I am Nhut Nguyen (Kenny Nguyen), an undergraduate in Ho Chi Minh City, Vietnam.
+I am Nhut Nguyen (Kenny Nguyen), a Data Analyst in Saigon, Vietnam.
 
 # About me
 I'm currently a Data Analyst at a financial company in Saigon, Vietnam. I hold a Bachelor of Business Analytics and Artificial Intelligence with combined knowledge of both worlds, business and engineering. My business knowledge ranges from Economics, Accounting to Marketing. I also have solid experiences of exploring data including data manipulating, data visualization, performing statistical analysis, and building machine learning models. I can communicate effectively in both Vietnamese (mother tongue) and English. I am also a good problem solver, and have taken leadership roles in several projects and achieved significant results.
